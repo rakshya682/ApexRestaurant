@@ -20,3 +20,5 @@ C:/Users/Baku/Desktop/dotnet/ApexRestaurant.Repository/obj/Debug/net8.0/ref/Apex
 /Users/rakshyabasnet/Downloads/dotnet-main/ApexRestaurant.Repository/obj/Debug/net8.0/refint/ApexRestaurant.Repository.dll
 /Users/rakshyabasnet/Downloads/dotnet-main/ApexRestaurant.Repository/obj/Debug/net8.0/ApexRestaurant.Repository.pdb
 /Users/rakshyabasnet/Downloads/dotnet-main/ApexRestaurant.Repository/obj/Debug/net8.0/ref/ApexRestaurant.Repository.dll
+/Users/rakshyabasnet/Downloads/dotnet-main/ApexRestaurant.Repository/obj/Debug/net8.0/ApexRestaurant.Repository.csproj.AssemblyReference.cache
+/Users/rakshyabasnet/Downloads/dotnet-main/ApexRestaurant.Repository/obj/Debug/net8.0/ApexRestaurant.Repository.sourcelink.json
